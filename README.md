@@ -1,7 +1,7 @@
 # Wesley Oliveira Santos
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wesleyosantos91)](https://github.com/wesleyosantos91)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyosantos91/)](https://www.linkedin.com/in/victor-amsantos/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyosantos91/)](https://www.linkedin.com/in/wesleyosantos91/)
 
 ## Olá 👋
 
