@@ -18,12 +18,21 @@ Meu hobby assistir animes e filmes de comédia.
 - [x] Java | Spring | Quarkus | Java EE
 - [x] Kotlin | Spring | Ktor | Exposed
 - [x] NodeJS | Express | Sequelize | Nodemon
-- [x] Junit | Mockito | PowerMock
+- [x] Junit | Mockito | PowerMock | RestAssured
+- [x] Tomcat | Jboss EAP | Jboss AS
+- [x] Swagger | OpenApi
+- [x] Restful | SOAP
 - [x] Angular | TypeScript | Angular JS | Javascript
 - [x] HTML | CSS
 - [x] Apache Kafka | Apache ActiveMQ | HornetQ
-- [x] IBM | IBM Integration Bus V10 | IBM API Connect
+- [x] IBM Integration Bus V10 | IBM API Connect
 - [x] Postgres | Oracle | SQL Server | MySQL | DB2 
+- [x] Docker | OpenShift | Rancher | Jenkins | Sonar | Git
+- [x] Eclipse | IntelliJ IDEA | VSCode | DataGrip | Kafka Tools | Postman | SoapUI 
+- [x] Jira | Redmine | Jazz
+- [x] Scrum
+- [x] Linux | Windows | Mac OS 
+
 
 ### Certificação
 - [Scrum Developer Certified (SDC) - Scrum Study
