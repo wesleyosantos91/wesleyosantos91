@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wesleyosantos91)](https://github.com/wesleyosantos91)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyosantos91/)](https://www.linkedin.com/in/wesleyosantos91/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyosantos91@gmail.com)](mailto:wesleyosantos91@gmail.com/)
 
 ## Olá 👋
 
@@ -9,7 +10,7 @@ Sou desenvolvedor Java, amante de tecnologia e apaixonado por conhecimento.
 Sou curioso e entusiasta de novas tecnologias, busco sempre tendência de mercado e faço diversas pocs para estudo de novas tecnologias. 
 Meu hobby assistir animes e filmes de comédia.
 
-### Formação
+### Formações
 - 🎓 Graduado em Sistemas de Informação na UPIS (União pioneira da integração social) - 2º/2017
 - 🎓 Pós graduado em Desenvolvimento de Sistemas Java na Unyleya - 2º/2018
 - 🎓 Pós graduado em Banco de Dados na Unyleya - 2º/2020
