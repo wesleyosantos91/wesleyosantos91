@@ -3,6 +3,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wesleyosantos91)](https://github.com/wesleyosantos91)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyosantos91/)](https://www.linkedin.com/in/wesleyosantos91/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyosantos91@gmail.com)](mailto:wesleyosantos91@gmail.com/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561995511463&text=Olá!)](https://api.whatsapp.com/send?phone=5561995511463&text=Olá!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/wesleyosantos91)](https://t.me/wesleyosantos91)
 
 ## Olá 👋
 
