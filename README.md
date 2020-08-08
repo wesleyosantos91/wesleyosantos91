@@ -32,8 +32,8 @@
 ## Olá 👋
 
 Sou desenvolvedor Java, amante de tecnologia e apaixonado por conhecimento.
-Sou curioso e entusiasta de novas tecnologias, busco sempre tendência de mercado e faço diversas pocs para estudo de novas tecnologias. 
-Meu hobby assistir animes e filmes de comédia.
+Sou curioso e entusiasta de novas tecnologias, busco sempre tendências de mercado e faço diversas pocs para estudo de novas tecnologias. 
+Meu hobby é assistir animes e filmes de comédia.
 
 ### Formações
 - 🎓 Graduado em Sistemas de Informação na UPIS (União pioneira da integração social) - 2º/2017
