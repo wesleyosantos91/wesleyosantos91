@@ -20,6 +20,16 @@
   </a>
 </p>
 
+<center>	
+  <table>	
+    <tr>	
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyosantos91&hide=html&layout=compact" /></td>	
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=wesleyosantos91&show_icons=true&theme=radical" /></td>	
+    </tr>   	
+  </table>	
+</center>	
+
+
 ## Olá 👋
 
 Sou desenvolvedor Java, amante de tecnologia e apaixonado por conhecimento.
