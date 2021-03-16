@@ -48,7 +48,7 @@ Meu hobby é assistir animes e filmes de comédia.
 - [x] Junit | Mockito | PowerMock | RestAssured
 - [x] Tomcat | Jboss EAP | Jboss AS
 - [x] Swagger | OpenApi
-- [x] Restful | SOAP
+- [x] Restful | SOAP | gRPC
 - [x] Angular | TypeScript | Angular JS | Javascript
 - [x] HTML | CSS
 - [x] Apache Kafka | Apache ActiveMQ | HornetQ
