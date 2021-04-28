@@ -20,14 +20,9 @@
   </a>
 </p>
 
-<center>	
-  <table>	
-    <tr>	
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyosantos91&hide=html&layout=compact" /></td>	
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=wesleyosantos91&show_icons=true&theme=radical" /></td>	
-    </tr>   	
-  </table>	
-</center>	
+![Wesley github stats](https://github-readme-stats.vercel.app/api?username=wesleyosantos91&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyosantos91&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Olá 👋
