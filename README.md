@@ -62,9 +62,11 @@ Meu hobby é assistir animes e filmes de comédia.
 
 
 ### Certificação
-- [Scrum Developer Certified (SDC) - Scrum Study
-](https://drive.google.com/file/d/16a6FCaYtGK181u7FMQdaSUCv2mXBql25/view?usp=sharing)
-- [Scrum Master Certified (SMC) - Scrum Study
-](https://drive.google.com/file/d/17JpUXeW-UqZe-vyo-ncS1Jq6r2qmhMsC/view?usp=sharing)
+- [AWS Certified Cloud Practitioner
+](https://www.credly.com/badges/91267278-f9d1-41f0-95e1-db5af250a296?source=linked_in_profile)
+- [AZ900 - Microsoft Certified: Azure Fundamentals
+](https://www.credly.com/badges/3e6e4aad-7637-4f54-99b8-335ca80d7ec4?source=linked_in_profile)
+- [Oracle Cloud Infrastructure Foundations 2021 Associate
+](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4D14325CCE50285595DBC61CB983F1BBF4C7A793BA9400433367BDBDF20C726F)
 
 ---
