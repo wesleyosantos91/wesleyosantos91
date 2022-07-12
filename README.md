@@ -29,6 +29,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyosantos91&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=wesleyosantos91)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## Olá 👋
 
