@@ -22,8 +22,37 @@
   <img src="https://img.shields.io/badge/Cloud&nbsp;Public-Amazon&nbsp;AWS-informational?style=flat&logo=Amazon&color=05122A" />
   <img src="https://img.shields.io/badge/Cloud&nbsp;Private-Kubernetes-informational?style=flat&logo=kubernetes&color=05122A" />
   <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=05122A" />
-
 </p>
+
+<br>
+
+### Certificação
+
+<p>
+   <img src="https://img.shields.io/badge/Certificações&nbsp;Cloud-Amazon&nbsp;AWS-informational?style=flat&logo=Amazon&color=05122A" />
+</p>
+
+<a align="center" href="https://www.credly.com/badges/307be36b-676d-445b-ba8d-4feae1e2bba9" arget="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="15%">
+</a>
+
+<a align="center" href="https://www.credly.com/badges/f630cf5d-4790-402a-8beb-5211038cad76" arget="_blank">
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="15%">
+</a>
+
+<a align="center" href="https://www.credly.com/badges/0b6f5236-9516-495f-b8e6-5c91a3fbee93" arget="_blank">
+  <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="15%">
+</a>
+
+<br>
+
+<p>
+   <img src="https://img.shields.io/badge/Certificações&nbsp;Cloud-Microsoft&nbsp;Azure-informational?style=flat&logo=Microsoft&color=05122A" />
+</p>
+
+<a align="center" href="[https://www.credly.com/badges/307be36b-676d-445b-ba8d-4feae1e2bba9](https://www.credly.com/badges/3e6e4aad-7637-4f54-99b8-335ca80d7ec4)" arget="_blank">
+  <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="15%">
+</a>
 
 ![Wesley github stats](https://github-readme-stats.vercel.app/api?username=wesleyosantos91&show_icons=true&theme=radical)
 
@@ -62,14 +91,5 @@ Meu hobby é assistir animes e filmes de comédia.
 - [x] Jira | Redmine | Jazz
 - [x] Scrum
 - [x] Linux | Windows | Mac OS 
-
-
-### Certificação
-- [AWS Certified Cloud Practitioner
-](https://www.credly.com/badges/91267278-f9d1-41f0-95e1-db5af250a296?source=linked_in_profile)
-- [AZ900 - Microsoft Certified: Azure Fundamentals
-](https://www.credly.com/badges/3e6e4aad-7637-4f54-99b8-335ca80d7ec4?source=linked_in_profile)
-- [Oracle Cloud Infrastructure Foundations 2021 Associate
-](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4D14325CCE50285595DBC61CB983F1BBF4C7A793BA9400433367BDBDF20C726F)
 
 ---
