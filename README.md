@@ -1,213 +1,187 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        WESLEY OLIVEIRA SANTOS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wesleyosantos91&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Wesley%20Oliveira%20Santos&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Staff%20Software%20Engineer%20%E2%80%A2%20Cloud%20Native%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Distributed+Systems+%26+Event-Driven+Architecture;Cloud+Native+on+AWS+%26+Kubernetes;Performance+Engineering+%26+SRE+mindset;Mentoring+high-performing+engineering+teams" alt="Typing" />
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=760&height=70&duration=3200&lines=Hi,+I'm+Wesley+Oliveira+Santos+%F0%9F%91%8B;Staff+Software+Engineer+%7C+Cloud+Native+Architect;Building+Scalable,+Reliable+%26+High-Impact+Platforms" alt="Typing Intro" />
 
-  <h3>Staff Software Engineer • Cloud Native Architect • Java & Go Specialist</h3>
+  <a href="https://www.linkedin.com/in/wesleyosantos91/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wesleyosantos91.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://wesleyosantos91.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:wesleyosantos91@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=wesleyosantos91&color=1f6feb&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/wesleyosantos91?style=flat-square&color=1f6feb&label=Followers&logo=github" alt="Followers" />
 
-  <p>
-    +10 anos liderando modernização de plataformas e evolução arquitetural no <b>Itaú Unibanco</b>.
-    <br/>
-    Foco em <b>microservices</b>, <b>event-driven systems</b>, <b>SRE mindset</b> e <b>engenharia de performance</b>.
-    <br/>
-    Unindo visão de produto, excelência técnica e cultura de entrega contínua.
-  </p>
-
-  <p>
-    <a href="https://wesleyosantos91.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/wesleyosantos91/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://wesleyosantos91.medium.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
-    <a href="mailto:wesleyosantos91@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## 👨‍💻 Sobre mim
+
+```yaml
+name:        "Wesley Oliveira Santos"
+role:        "Staff Software Engineer @ Itaú Unibanco"
+location:    "Gama - Distrito Federal, Brasil 🇧🇷"
+experience:  "+10 anos em engenharia de software (Fintech & InsurTech)"
+cloud:       ["AWS", "GCP", "Azure"]
+focus:       ["Distributed Systems", "Event-Driven", "Performance", "SRE"]
+mindset:     "Excelência técnica + visão de produto + entrega contínua"
+```
+
+- 🏦 **Staff Software Engineer no Itaú Unibanco**, modernizando sistemas bancários críticos em AWS e liderando iniciativas regulatórias (**Open Insurance / SRO**).
+- 🧩 Especialista em **arquiteturas Hexagonal e Clean**, microsserviços e sistemas orientados a eventos.
+- ☁️ Construo soluções **cloud native** multicloud com foco em resiliência, observabilidade e SRE.
+- ⚡ Apaixonado por **engenharia de performance**, tuning de JVM e confiabilidade (golden signals).
+- 👥 **Liderança técnica e mentoria** de squads multidisciplinares de alta performance.
+- 🤖 Explorando **IA aplicada** e arquiteturas multi-agente para engenharia de software.
+- 📝 Compartilho conhecimento em workshops, mentorias e artigos no [Medium](https://medium.com/@wesleyosantos91).
+
+> 📄 **Portfólio completo, trajetória e cases:** **[wesleyosantos91.github.io](https://wesleyosantos91.github.io/)**
+
+---
+
+## 📈 Impacto técnico
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140"><b>Backend</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=java,spring,golang,python" alt="Backend stack" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140"><b>Cloud & DevOps</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,githubactions,jenkins,grafana,prometheus" alt="Cloud and DevOps stack" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140"><b>Data & Messaging</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=kafka,postgres,mysql,mongodb,dynamodb,redis" alt="Data stack" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140"><b>Frontend</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=angular,ts,js" alt="Frontend stack" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140"><b>Tooling</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,git,maven,gradle" alt="Tooling stack" />
-      </td>
-    </tr>
-  </table>
+
+| 🚀 `-35%` | ⚡ `Milhões/dia` | 📊 `+20%` |
+|:---:|:---:|:---:|
+| Redução de tempo de processamento em plataforma bancária | Soluções AWS suportando alto volume transacional | Ganho anual de produtividade em times ágeis |
+
 </div>
 
 ---
 
-## 🔭 Current Focus
-
-- **Architecture:** Resilience patterns, event-driven integration and platform scalability.
-- **Engineering:** Performance tuning for Java and Go workloads.
-- **Operations:** Observability, golden signals and SRE-oriented reliability.
-- **Leadership:** Technical mentoring and engineering standards for high-performing teams.
-
----
-
-## 💡 What I Deliver
+## 🛠️ Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Distributed-Architecture-58a6ff?style=for-the-badge" alt="Distributed Architecture" />
-        <br/><br/>
-        <sub><b>Distributed Systems</b></sub>
-        <br/>
-        <sub>Arquitetura de serviços escaláveis, resilientes e orientados a domínio.</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Cloud-Native-58a6ff?style=for-the-badge" alt="Cloud Native" />
-        <br/><br/>
-        <sub><b>Cloud Native Platforms</b></sub>
-        <br/>
-        <sub>Design e evolução de plataformas em AWS/Kubernetes com foco em confiabilidade.</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/High-Performance-58a6ff?style=for-the-badge" alt="High Performance" />
-        <br/><br/>
-        <sub><b>Performance Engineering</b></sub>
-        <br/>
-        <sub>Diagnóstico de gargalos e otimização ponta a ponta de aplicações críticas.</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/DevOps-Enablement-58a6ff?style=for-the-badge" alt="DevOps Enablement" />
-        <br/><br/>
-        <sub><b>Delivery Excellence</b></sub>
-        <br/>
-        <sub>Automação de pipelines, governança técnica e ciclos de entrega contínua.</sub>
-      </td>
-    </tr>
-  </table>
+
+**Languages & Core**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+**Data & Messaging**
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 </div>
 
 ---
 
-## 🎓 Certifications
+## 🚀 Projetos em destaque
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Developer Associate" />
-  <img src="https://img.shields.io/badge/Azure-AZ--900_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AZ-900" />
-  <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
-  <img src="https://img.shields.io/badge/Linux-LPI_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux LPI Essentials" />
+
+<a href="https://github.com/wesleyosantos91/poc-multi-module-arch-hexagonal-springboot">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wesleyosantos91&repo=poc-multi-module-arch-hexagonal-springboot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Hexagonal Architecture" />
+</a>
+<a href="https://github.com/wesleyosantos91/docker-localstack">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wesleyosantos91&repo=docker-localstack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Docker LocalStack" />
+</a>
+
+<a href="https://github.com/wesleyosantos91/poc-springboot-kafka">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wesleyosantos91&repo=poc-springboot-kafka&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Spring Boot Kafka" />
+</a>
+<a href="https://github.com/wesleyosantos91/poc-multi-module-clean-architecture-springboot">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wesleyosantos91&repo=poc-multi-module-clean-architecture-springboot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Clean Architecture" />
+</a>
+
+<a href="https://github.com/wesleyosantos91/multi-agents">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wesleyosantos91&repo=multi-agents&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Multi Agents" />
+</a>
+<a href="https://github.com/wesleyosantos91/poc-api-first-spring">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wesleyosantos91&repo=poc-api-first-spring&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="API First" />
+</a>
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📦 Hexagonal Multi-Module</h3>
-        <div align="center">
-          <a href="https://github.com/wesleyosantos91/poc-multi-module-arch-hexagonal-springboot" target="_blank">
-            <img src="https://img.shields.io/badge/View-Project-58a6ff?style=for-the-badge&logo=github" alt="Hexagonal project" />
-          </a>
-          <p><strong>Java • Spring Boot • Hexagonal Architecture</strong></p>
-          <p>POC com separação clara entre domínio, aplicação e infraestrutura em estrutura multi-módulo.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🐳 Docker + LocalStack</h3>
-        <div align="center">
-          <a href="https://github.com/wesleyosantos91/docker-localstack" target="_blank">
-            <img src="https://img.shields.io/badge/View-Project-58a6ff?style=for-the-badge&logo=github" alt="Docker localstack project" />
-          </a>
-          <p><strong>Docker • LocalStack • AWS Services</strong></p>
-          <p>Ambiente local para acelerar desenvolvimento e testes com serviços AWS sem custo de cloud.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎯 API-First</h3>
-        <div align="center">
-          <a href="https://github.com/wesleyosantos91/poc-api-first-spring" target="_blank">
-            <img src="https://img.shields.io/badge/View-Project-58a6ff?style=for-the-badge&logo=github" alt="API first project" />
-          </a>
-          <p><strong>Spring Boot • OpenAPI • Swagger</strong></p>
-          <p>Implementação orientada a contrato com geração automática de código e maior governança de APIs.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏗️ Clean Architecture</h3>
-        <div align="center">
-          <a href="https://github.com/wesleyosantos91/poc-multi-module-clean-architecture-springboot" target="_blank">
-            <img src="https://img.shields.io/badge/View-Project-58a6ff?style=for-the-badge&logo=github" alt="Clean architecture project" />
-          </a>
-          <p><strong>Java • Spring Boot • Clean Architecture</strong></p>
-          <p>Estrutura multi-módulo com princípios SOLID e boundaries explícitos entre regras de negócio e frameworks.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wesleyosantos91&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyosantos91&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=wesleyosantos91&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+<img width="92%" src="https://github-profile-trophy.vercel.app/?username=wesleyosantos91&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
 </div>
 
 ---
 
-## 📈 GitHub Insights
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=wesleyosantos91&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
-  </a>
-  <br>
-  <a href="https://github.com/wesleyosantos91">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyosantos91&theme=tokyonight" alt="Languages by Repo"/>
-  </a>
-</p>
-
-<p align="center">
-  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleyosantos91&theme=tokyonight" alt="Profile Summary"/>
-</p>
+## 💼 Trajetória
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/wesleyosantos91/wesleyosantos91/output/github-contribution-grid-snake.svg" />
+
+| Período | Cargo | Empresa |
+|:---|:---|:---|
+| **Dez 2021 — Atual** | Staff Software Engineer | **Itaú Unibanco** |
+| Ago 2021 — Dez 2021 | Principal Software Engineer | Grupo Boticário |
+| Dez 2020 — Ago 2021 | Staff Software Engineer | ZUP I.T. Innovation _(Open Finance @ Itaú)_ |
+| Ago 2020 — Dez 2020 | Staff Engineer / Tech Lead | Connectis _(Banco do Brasil)_ |
+| 2018 — 2020 | Senior Software Architect | Spread • Grupo ICTS • Ília Digital |
+
+<sub>Trajetória completa desde 2015 no <a href="https://wesleyosantos91.github.io/">portfólio</a>.</sub>
+
+</div>
+
+---
+
+## 🎓 Certificações
+
+<div align="center">
+
+![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure AZ-900](https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white)
+![LPI Linux Essentials](https://img.shields.io/badge/Linux-LPI_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Management 3.0](https://img.shields.io/badge/Management_3.0-Foundations-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
+
+<sub>🎓 MBA Arquitetura Full Cycle (2026) • Pós em Banco de Dados • Pós em Desenvolvimento Java • Bacharel em Sistemas de Informação</sub>
+
 </div>
 
 ---
 
 <div align="center">
-  <sub><b>"Building technology that scales people, products and platforms."</b></sub>
+  <img src="https://raw.githubusercontent.com/wesleyosantos91/wesleyosantos91/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</div>
+
+<div align="center">
+
+> *"Building technology that scales people, products and platforms."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
+
 </div>
